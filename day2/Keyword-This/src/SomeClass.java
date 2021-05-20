@@ -8,7 +8,7 @@ public class SomeClass {
 		
 	}
 	
-	// construuctors 
+	// constructors 
 	
 	public SomeClass() {
 		this(10l); // set default value

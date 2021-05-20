@@ -3,7 +3,9 @@ package test;
 public class Tester {
 
 //	public static void doThing() {}
+	public static void myMethod(Object o) {}
 	public static void main(String[] args) {
+		myMethod(new String("test"));
 //		doThing();
 //		for (int count  = 1 ; count< 5 ; count++) {
 //			count = count + count ;
